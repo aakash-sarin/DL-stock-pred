@@ -1,2 +1,2 @@
 # DL-stock-pred
-A notebook of Stock prediction using LSTM.
+A notebook of stock prediction using LSTM.
